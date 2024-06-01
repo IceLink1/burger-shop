@@ -276,7 +276,7 @@ footer {
 [class*="col-"] {
     width: 100%;
   }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
     .navb{
         display: none;
     }
