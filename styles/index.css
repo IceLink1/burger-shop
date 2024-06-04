@@ -31,6 +31,9 @@
     align-items: center;
     border-bottom: 2px solid black;
 }
+.card1:hover{
+    box-shadow: 10px 10px 30px grey;
+}
 
 .nav_div {
     display: flex;
